@@ -1,4 +1,4 @@
-,City,Country,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Current Description
+City_ID,City,Country,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Current Description
 0,Busselton,AU,-33.65,115.3333,70.11,51,77,11.88,broken clouds
 1,Taft,IR,31.7471,54.2088,78.75,10,0,2.3,clear sky
 2,San Patricio,US,28.017,-97.5169,78.84,56,0,6.93,clear sky
