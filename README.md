@@ -1,5 +1,5 @@
 # World_Weather_Analysis
-**Collect and analyze weather data across cities worldwide**
+**Collect and Analyze Weather Data Across Cities Worldwide**
 
 ## Overview of Project
 The purpose of this project is to retrieve and anlayze data for a hypothetical travel company, PlanMyTrip, using Python, decision and repetition statements, data structures, Pandas, Matplotlib, and SciPy statistics.
